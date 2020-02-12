@@ -1,2 +1,16 @@
-# ABNORMAL-DETECTION
-ABNORMAL DETECTION is a mobile application that is used to alert people to the presence of a problem that may occur in our daily lives and may face any of us. So, the user can ask for help from the people around him or alert others to the existence of a specific issue somewhere in specific range.
+# nevergiveup
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
